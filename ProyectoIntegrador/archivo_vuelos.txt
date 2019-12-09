@@ -1,0 +1,8 @@
+VivaAerobus 2019/12/14 06:05 VB1010 llegada
+VivaAerobus 2018/12/18 20:05 VB1020 salida
+Aeromexico 2020/01/5 06:05 AM1030 salida
+VivaAerobus 2020/02/6 20:35 VB1040 llegada
+VivaAerobus 2020/02/6 20:35 VB1050 llegada
+Interjet 2019/12/14 06:05 IJ1060 llegada
+Interjet 2019/12/14 07:05 IJ1070 salida
+AmericanAirlines 2019/12/14 06:05 AA1080 salida
